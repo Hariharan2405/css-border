@@ -1,0 +1,73 @@
+*{
+	background-color:gray;
+	font-size:20px;
+}
+p{
+	border:5px solid red;
+	
+	width:10%;
+}
+
+.a2{
+	border-style:dashed;
+}
+.a3{
+	border-style:dotted;
+}
+.a4{
+	border-style:double;
+}
+.a5{
+	border-style:groove;
+}
+.a6{
+	border-style:ridge;
+}
+.a7{
+	border-style:inset;
+}
+.a8{
+	border-style:outset;
+}
+.a9{
+	border-style:none;
+}
+.a10{
+	border-style:hidden;
+}
+.a11{
+	border-style:dotted dashed double hidden;
+}
+.a1{
+	border-style:inset groove outset ridge;
+}
+.b1{
+	outline:solid;
+}
+.b2{
+	outline:dashed;
+}
+.b3{
+	outline:dotted;
+}
+.b4{
+	outline:double;
+}
+.b5{
+	outline:groove;
+}
+.b6{
+	outline:ridge;
+}
+.b7{
+	outline:inset;
+}
+.b8{
+	outline:outset;
+}
+.b9{
+	outline:none;
+}
+.b10{
+	outline:hidden;
+}
